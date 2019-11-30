@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HomeworkLessonOne</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Вот надо мной аватар пользователя</string>
+    <string name="nav_header_subtitle">Потом нужно будет сделать его обновляемым</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_about_the_developer">About the developer</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_change_city">Change city</string>
+    <string name="menu_change_theme">Dark theme</string>
+    <string name="text_about_the_developer">Данное приложение разработано исключительно для выполнения домашнего задания к первому уроку. Колесников Юрий</string>
+    <string name="text_about_the_feedback">Вопросы и пожелания можете отправлять в ЛС или на email: qwe@qwe.qwe</string>
+</resources>

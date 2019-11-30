@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_change_sity"
+        android:orderInCategory="200"
+        android:title="@string/menu_change_city"
+        android:icon="@android:drawable/ic_menu_view"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_change_theme"
+        android:orderInCategory="300"
+        android:title="@string/menu_change_theme"
+        android:checkable="true"
+        android:checked="false"
+        app:showAsAction="never"/>
+</menu>
