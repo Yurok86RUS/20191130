@@ -1,4 +1,4 @@
-package com.yur0k.homeworklessonone.ui.send;
+package com.yur0k.homeworklessonone.ui.feedback;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
