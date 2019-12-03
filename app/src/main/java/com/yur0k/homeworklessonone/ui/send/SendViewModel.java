@@ -1,4 +1,4 @@
-package com.yur0k.homeworklessonone.ui.send;
+package com.yur0k.homeworklessonone.ui.feedback;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
